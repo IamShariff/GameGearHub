@@ -44,7 +44,7 @@ GameGearHub is secured using Spring Security to protect the backend from unautho
 
 ## Contributors 🤝
 
-- [Your Name](https://github.com/iammShariff)
+- [Md Sharif](https://github.com/iammShariff)
 
 ## License 📄
 
